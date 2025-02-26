@@ -1,1 +1,3 @@
-# Projeto-app-android-1.0
+# Teste--App
+
+Projeto inicial de kotlin focado em testes.
